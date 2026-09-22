@@ -1,0 +1,143 @@
+{
+  "status": "success",
+  "data": {
+    "items": [
+      {
+        "usage_log_id": "b7b96a95-4fd7-4dd9-8550-59cbfe56ab46",
+        "timestamp": "2026-09-22T02:51:37.611961Z",
+        "user_name": "Nathanael Jedd del Castillo",
+        "activity_type": "WEB Analysis",
+        "target_details": "Yellowstone Dino Lube & Repair, 375 US-89 S #A, Gardiner, MT 59030",
+        "volume": 1,
+        "cost": "0.5600"
+      },
+      {
+        "usage_log_id": "5c126373-7108-4912-80e4-93594211b752",
+        "timestamp": "2026-09-22T02:50:50.704509Z",
+        "user_name": "Lester Mardy Gallardo",
+        "activity_type": "WEB Analysis",
+        "target_details": "Little Italy Pizzeria and Deli, 50 Fulton St, New York, NY 10038",
+        "volume": 1,
+        "cost": "0.5600"
+      },
+      {
+        "usage_log_id": "663e93c6-58d2-48cc-89c3-739bca20afc3",
+        "timestamp": "2026-09-22T02:50:50.658699Z",
+        "user_name": "Lester Mardy Gallardo",
+        "activity_type": "GBP Analysis",
+        "target_details": "Little Italy Pizzeria and Deli, 50 Fulton St, New York, NY 10038",
+        "volume": 1,
+        "cost": "0.0060"
+      },
+      {
+        "usage_log_id": "a7eb68f5-9f1c-4631-a698-da16e8f1ffd4",
+        "timestamp": "2026-09-22T02:42:51.769667Z",
+        "user_name": "Nathanael Jedd del Castillo",
+        "activity_type": "WEB Analysis",
+        "target_details": "Tumbleweed Cafe, 503 Scott St W, Gardiner, MT 59030",
+        "volume": 1,
+        "cost": "0.5600"
+      },
+      {
+        "usage_log_id": "439709dd-1d0a-4712-a958-a5e227baa8c3",
+        "timestamp": "2026-09-22T02:33:55.758172Z",
+        "user_name": "Nathanael Jedd del Castillo",
+        "activity_type": "SOC Analysis",
+        "target_details": "Henry's Tavern, 500 16th St Mall Ste 184B, Denver, CO 80202",
+        "volume": 1,
+        "cost": "0.0500"
+      },
+      {
+        "usage_log_id": "f0b9eb3e-badf-4ea1-82cf-753526337959",
+        "timestamp": "2026-09-22T02:33:55.743248Z",
+        "user_name": "Nathanael Jedd del Castillo",
+        "activity_type": "WEB Analysis",
+        "target_details": "Henry's Tavern, 500 16th St Mall Ste 184B, Denver, CO 80202",
+        "volume": 1,
+        "cost": "0.5600"
+      },
+      {
+        "usage_log_id": "205e14a1-c475-4217-a6fd-3345873bbd06",
+        "timestamp": "2026-09-22T02:33:55.697834Z",
+        "user_name": "Nathanael Jedd del Castillo",
+        "activity_type": "GBP Analysis",
+        "target_details": "Henry's Tavern, 500 16th St Mall Ste 184B, Denver, CO 80202",
+        "volume": 1,
+        "cost": "0.0060"
+      },
+      {
+        "usage_log_id": "335aae48-f45b-4701-8bae-14881f4cb807",
+        "timestamp": "2026-09-22T01:52:00.193112Z",
+        "user_name": "Blaise Bernabe",
+        "activity_type": "SOC Analysis",
+        "target_details": "MyHome Thai Belmontchase, 19890 Belmont Chase Dr, Ashburn, VA 20147",
+        "volume": 1,
+        "cost": "0.0500"
+      },
+      {
+        "usage_log_id": "8389abf7-fc61-4ab1-a40a-06a074990b66",
+        "timestamp": "2026-09-22T01:52:00.179110Z",
+        "user_name": "Blaise Bernabe",
+        "activity_type": "WEB Analysis",
+        "target_details": "MyHome Thai Belmontchase, 19890 Belmont Chase Dr, Ashburn, VA 20147",
+        "volume": 1,
+        "cost": "0.5600"
+      },
+      {
+        "usage_log_id": "71c6e96e-182e-4769-b866-8138b2d243b4",
+        "timestamp": "2026-09-22T01:52:00.149373Z",
+        "user_name": "Blaise Bernabe",
+        "activity_type": "GBP Analysis",
+        "target_details": "MyHome Thai Belmontchase, 19890 Belmont Chase Dr, Ashburn, VA 20147",
+        "volume": 1,
+        "cost": "0.0060"
+      },
+      {
+        "usage_log_id": "b1aab8b8-bd20-4ee5-b33c-94e1c813cbf8",
+        "timestamp": "2026-09-22T01:50:11.391539Z",
+        "user_name": "Blaise Bernabe",
+        "activity_type": "SOC Analysis",
+        "target_details": "Casa Tequila Bar & Grill, 44110 Ashburn Shopping Plz Ste 100, Ashburn, VA 20147",
+        "volume": 1,
+        "cost": "0.0500"
+      },
+      {
+        "usage_log_id": "b68ae28b-16af-4b0c-a06c-0b5e337a0587",
+        "timestamp": "2026-09-22T01:50:11.359870Z",
+        "user_name": "Blaise Bernabe",
+        "activity_type": "WEB Analysis",
+        "target_details": "Casa Tequila Bar & Grill, 44110 Ashburn Shopping Plz Ste 100, Ashburn, VA 20147",
+        "volume": 1,
+        "cost": "0.5600"
+      },
+      {
+        "usage_log_id": "1508d5e1-ae6c-4ea2-a3dc-a22c302040d3",
+        "timestamp": "2026-09-22T01:50:11.289376Z",
+        "user_name": "Blaise Bernabe",
+        "activity_type": "GBP Analysis",
+        "target_details": "Casa Tequila Bar & Grill, 44110 Ashburn Shopping Plz Ste 100, Ashburn, VA 20147",
+        "volume": 1,
+        "cost": "0.0060"
+      },
+      {
+        "usage_log_id": "d804ea3a-e8cd-4c06-8c94-2161c5f29cf9",
+        "timestamp": "2026-09-22T01:49:52.425167Z",
+        "user_name": "Blaise Bernabe",
+        "activity_type": "SOC Analysis",
+        "target_details": "Thai Ashburn, 44031 Ashburn Shopping Plz #119, Ashburn, VA 20147",
+        "volume": 1,
+        "cost": "0.0500"
+      },
+      {
+        "usage_log_id": "07428e59-bd5a-4372-8a33-c6743dc4e602",
+        "timestamp": "2026-09-22T01:49:52.409085Z",
+        "user_name": "Blaise Bernabe",
+        "activity_type": "WEB Analysis",
+        "target_details": "Thai Ashburn, 44031 Ashburn Shopping Plz #119, Ashburn, VA 20147",
+        "volume": 1,
+        "cost": "0.5600"
+      }
+    ],
+    "total": 5812
+  }
+}
