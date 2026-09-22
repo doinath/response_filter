@@ -5,7 +5,7 @@ const configPath = path.join(__dirname, "config.json");
 const inputPath = path.join(__dirname, "reference.json");
 
 const config = JSON.parse(fs.readFileSync(configPath, "utf-8"));
-const input = JSON.parse(fs.readFileSync(inputPath, "utf-8"));
+const raw = fs.readFileSync(inputPath, "utf-8");
 
 const { include = [], exclude = [] } = config;
 
@@ -38,12 +38,30 @@ function filterItem(item, include, exclude) {
   return item;
 }
 
-const arrays = findArrays(input);
+const objects = raw.split(/\}\s*\n\s*\{/).map((chunk, i, arr) => {
+  let s = chunk.trim();
+  if (i > 0) s = "{" + s;
+  if (i < arr.length - 1) s = s + "}";
+  return JSON.parse(s);
+});
 
-if (arrays) {
-  const filtered = arrays.map((item) => filterItem(item, include, exclude));
-  console.log(JSON.stringify(filtered, null, 2));
-} else {
-  const result = filterItem(input, include, exclude);
-  console.log(JSON.stringify(result, null, 2));
+let allItems = [];
+for (const obj of objects) {
+  const arr = findArrays(obj);
+  if (arr) allItems = allItems.concat(arr);
 }
+
+const filtered = allItems.map((item) => filterItem(item, include, exclude));
+const output = JSON.stringify(filtered, null, 2);
+
+console.log(output);
+fs.writeFileSync(path.join(__dirname, "output.txt"), output);
+console.log("\nSaved to output.txt");
+
+const keys = include.length > 0 ? include : Object.keys(filtered[0] || {});
+const tsvHeader = keys.join("\t");
+const tsvRows = filtered.map((item) => keys.map((k) => item[k] ?? "").join("\t"));
+const tsv = [tsvHeader, ...tsvRows].join("\n");
+
+fs.writeFileSync(path.join(__dirname, "output.tsv"), tsv);
+console.log("Saved to output.tsv");

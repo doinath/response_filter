@@ -1,0 +1,45 @@
+cost	user_name	activity_type	target_details	volume
+0.5600	Iester mardy gaIIardo	WEB Analysis	Traditas Pizza, 83 Maiden Ln, New York, NY 10038	1
+0.0500	Iester mardy gaIIardo	SOC Analysis	Rosella's Pizzeria, 164 William St, New York, NY 10038	1
+0.0500	Illyria Dy	SOC Analysis	Wendy's, 111 Fulton St, New York, NY 10038	1
+0.5600	Illyria Dy	WEB Analysis	Wendy's, 111 Fulton St, New York, NY 10038	1
+0.0060	Illyria Dy	GBP Analysis	Wendy's, 111 Fulton St, New York, NY 10038	1
+0.0500	Illyria Dy	SOC Analysis	Kitchen Social Meals-to-Go, 104 S Beverly St, Casper, WY 82609	1
+0.5600	Illyria Dy	WEB Analysis	Kitchen Social Meals-to-Go, 104 S Beverly St, Casper, WY 82609	1
+0.0060	Illyria Dy	GBP Analysis	Kitchen Social Meals-to-Go, 104 S Beverly St, Casper, WY 82609	1
+0.0500	Illyria Dy	SOC Analysis	McDonald’s, 262 Canal St, New York, NY 10013	1
+0.5600	Illyria Dy	WEB Analysis	McDonald’s, 262 Canal St, New York, NY 10013	1
+0.0060	Illyria Dy	GBP Analysis	McDonald’s, 262 Canal St, New York, NY 10013	1
+0.0500	Illyria Dy	SOC Analysis	McDonald's, 160 Broadway, New York, NY 10038	1
+0.5600	Illyria Dy	WEB Analysis	McDonald's, 160 Broadway, New York, NY 10038	1
+0.0060	Illyria Dy	GBP Analysis	McDonald's, 160 Broadway, New York, NY 10038	1
+0.0500	Lester Test	SOC Analysis	LOUDOUN KABOB, 44031 Ashburn Shopping Plz Suite#123, Ashburn, VA 20147	1
+0.0040	Lester Test	Search	44031 Ashburn Shopping Plz #127, Ashburn, VA 20147, USA	1
+0.5600	Lester Red	WEB Analysis	Javai Coffee, 400 16th St Mall, Denver, CO 80202	1
+0.0400	Lester Red	Search	1466 Bannock St, Denver, CO 80202, USA	10
+0.5600	Nathanael Jedd del Castillo	WEB Analysis	Yellowstone Dino Lube & Repair, 375 US-89 S #A, Gardiner, MT 59030	1
+0.5600	Iester mardy gaIIardo	WEB Analysis	Little Italy Pizzeria and Deli, 50 Fulton St, New York, NY 10038	1
+0.0060	Iester mardy gaIIardo	GBP Analysis	Little Italy Pizzeria and Deli, 50 Fulton St, New York, NY 10038	1
+0.5600	Nathanael Jedd del Castillo	WEB Analysis	Tumbleweed Cafe, 503 Scott St W, Gardiner, MT 59030	1
+0.0500	Nathanael Jedd del Castillo	SOC Analysis	Henry's Tavern, 500 16th St Mall Ste 184B, Denver, CO 80202	1
+0.5600	Nathanael Jedd del Castillo	WEB Analysis	Henry's Tavern, 500 16th St Mall Ste 184B, Denver, CO 80202	1
+0.0060	Nathanael Jedd del Castillo	GBP Analysis	Henry's Tavern, 500 16th St Mall Ste 184B, Denver, CO 80202	1
+0.0500	Blaise Bernabe	SOC Analysis	MyHome Thai Belmontchase, 19890 Belmont Chase Dr, Ashburn, VA 20147	1
+0.5600	Blaise Bernabe	WEB Analysis	MyHome Thai Belmontchase, 19890 Belmont Chase Dr, Ashburn, VA 20147	1
+0.0060	Blaise Bernabe	GBP Analysis	MyHome Thai Belmontchase, 19890 Belmont Chase Dr, Ashburn, VA 20147	1
+0.0500	Blaise Bernabe	SOC Analysis	Casa Tequila Bar & Grill, 44110 Ashburn Shopping Plz Ste 100, Ashburn, VA 20147	1
+0.5600	Blaise Bernabe	WEB Analysis	Casa Tequila Bar & Grill, 44110 Ashburn Shopping Plz Ste 100, Ashburn, VA 20147	1
+0.0060	Blaise Bernabe	GBP Analysis	Casa Tequila Bar & Grill, 44110 Ashburn Shopping Plz Ste 100, Ashburn, VA 20147	1
+0.0500	Blaise Bernabe	SOC Analysis	Thai Ashburn, 44031 Ashburn Shopping Plz #119, Ashburn, VA 20147	1
+0.5600	Blaise Bernabe	WEB Analysis	Thai Ashburn, 44031 Ashburn Shopping Plz #119, Ashburn, VA 20147	1
+0.0060	Blaise Bernabe	GBP Analysis	Thai Ashburn, 44031 Ashburn Shopping Plz #119, Ashburn, VA 20147	1
+0.0500	Blaise Bernabe	SOC Analysis	LOS TOLTECOS, 43150 Broadlands Center Plaza Suite 194, Ashburn, VA 20148	1
+0.5600	Blaise Bernabe	WEB Analysis	LOS TOLTECOS, 43150 Broadlands Center Plaza Suite 194, Ashburn, VA 20148	1
+0.0060	Blaise Bernabe	GBP Analysis	LOS TOLTECOS, 43150 Broadlands Center Plaza Suite 194, Ashburn, VA 20148	1
+0.0200	Blaise Bernabe	Search	43985 Bruceton Mills Cir, Ashburn, VA 20147, USA	5
+0.0500	Blaise Bernabe	SOC Analysis	Bebop Korean-Mexican Grill, 20630 Ashburn Rd Unit 172, Ashburn, VA 20147	1
+0.5600	Blaise Bernabe	WEB Analysis	Bebop Korean-Mexican Grill, 20630 Ashburn Rd Unit 172, Ashburn, VA 20147	1
+0.0060	Blaise Bernabe	GBP Analysis	Bebop Korean-Mexican Grill, 20630 Ashburn Rd Unit 172, Ashburn, VA 20147	1
+0.0500	Blaise Bernabe	SOC Analysis	Potomac Taphouse, 44921 George Washington Blvd #155, Ashburn, VA 20147	1
+0.5600	Blaise Bernabe	WEB Analysis	Potomac Taphouse, 44921 George Washington Blvd #155, Ashburn, VA 20147	1
+0.0060	Blaise Bernabe	GBP Analysis	Potomac Taphouse, 44921 George Washington Blvd #155, Ashburn, VA 20147	1

@@ -1,143 +1,422 @@
 {
-  "status": "success",
-  "data": {
-    "items": [
-      {
-        "usage_log_id": "b7b96a95-4fd7-4dd9-8550-59cbfe56ab46",
-        "timestamp": "2026-09-22T02:51:37.611961Z",
-        "user_name": "Nathanael Jedd del Castillo",
-        "activity_type": "WEB Analysis",
-        "target_details": "Yellowstone Dino Lube & Repair, 375 US-89 S #A, Gardiner, MT 59030",
-        "volume": 1,
-        "cost": "0.5600"
-      },
-      {
-        "usage_log_id": "5c126373-7108-4912-80e4-93594211b752",
-        "timestamp": "2026-09-22T02:50:50.704509Z",
-        "user_name": "Lester Mardy Gallardo",
-        "activity_type": "WEB Analysis",
-        "target_details": "Little Italy Pizzeria and Deli, 50 Fulton St, New York, NY 10038",
-        "volume": 1,
-        "cost": "0.5600"
-      },
-      {
-        "usage_log_id": "663e93c6-58d2-48cc-89c3-739bca20afc3",
-        "timestamp": "2026-09-22T02:50:50.658699Z",
-        "user_name": "Lester Mardy Gallardo",
-        "activity_type": "GBP Analysis",
-        "target_details": "Little Italy Pizzeria and Deli, 50 Fulton St, New York, NY 10038",
-        "volume": 1,
-        "cost": "0.0060"
-      },
-      {
-        "usage_log_id": "a7eb68f5-9f1c-4631-a698-da16e8f1ffd4",
-        "timestamp": "2026-09-22T02:42:51.769667Z",
-        "user_name": "Nathanael Jedd del Castillo",
-        "activity_type": "WEB Analysis",
-        "target_details": "Tumbleweed Cafe, 503 Scott St W, Gardiner, MT 59030",
-        "volume": 1,
-        "cost": "0.5600"
-      },
-      {
-        "usage_log_id": "439709dd-1d0a-4712-a958-a5e227baa8c3",
-        "timestamp": "2026-09-22T02:33:55.758172Z",
-        "user_name": "Nathanael Jedd del Castillo",
-        "activity_type": "SOC Analysis",
-        "target_details": "Henry's Tavern, 500 16th St Mall Ste 184B, Denver, CO 80202",
-        "volume": 1,
-        "cost": "0.0500"
-      },
-      {
-        "usage_log_id": "f0b9eb3e-badf-4ea1-82cf-753526337959",
-        "timestamp": "2026-09-22T02:33:55.743248Z",
-        "user_name": "Nathanael Jedd del Castillo",
-        "activity_type": "WEB Analysis",
-        "target_details": "Henry's Tavern, 500 16th St Mall Ste 184B, Denver, CO 80202",
-        "volume": 1,
-        "cost": "0.5600"
-      },
-      {
-        "usage_log_id": "205e14a1-c475-4217-a6fd-3345873bbd06",
-        "timestamp": "2026-09-22T02:33:55.697834Z",
-        "user_name": "Nathanael Jedd del Castillo",
-        "activity_type": "GBP Analysis",
-        "target_details": "Henry's Tavern, 500 16th St Mall Ste 184B, Denver, CO 80202",
-        "volume": 1,
-        "cost": "0.0060"
-      },
-      {
-        "usage_log_id": "335aae48-f45b-4701-8bae-14881f4cb807",
-        "timestamp": "2026-09-22T01:52:00.193112Z",
-        "user_name": "Blaise Bernabe",
-        "activity_type": "SOC Analysis",
-        "target_details": "MyHome Thai Belmontchase, 19890 Belmont Chase Dr, Ashburn, VA 20147",
-        "volume": 1,
-        "cost": "0.0500"
-      },
-      {
-        "usage_log_id": "8389abf7-fc61-4ab1-a40a-06a074990b66",
-        "timestamp": "2026-09-22T01:52:00.179110Z",
-        "user_name": "Blaise Bernabe",
-        "activity_type": "WEB Analysis",
-        "target_details": "MyHome Thai Belmontchase, 19890 Belmont Chase Dr, Ashburn, VA 20147",
-        "volume": 1,
-        "cost": "0.5600"
-      },
-      {
-        "usage_log_id": "71c6e96e-182e-4769-b866-8138b2d243b4",
-        "timestamp": "2026-09-22T01:52:00.149373Z",
-        "user_name": "Blaise Bernabe",
-        "activity_type": "GBP Analysis",
-        "target_details": "MyHome Thai Belmontchase, 19890 Belmont Chase Dr, Ashburn, VA 20147",
-        "volume": 1,
-        "cost": "0.0060"
-      },
-      {
-        "usage_log_id": "b1aab8b8-bd20-4ee5-b33c-94e1c813cbf8",
-        "timestamp": "2026-09-22T01:50:11.391539Z",
-        "user_name": "Blaise Bernabe",
-        "activity_type": "SOC Analysis",
-        "target_details": "Casa Tequila Bar & Grill, 44110 Ashburn Shopping Plz Ste 100, Ashburn, VA 20147",
-        "volume": 1,
-        "cost": "0.0500"
-      },
-      {
-        "usage_log_id": "b68ae28b-16af-4b0c-a06c-0b5e337a0587",
-        "timestamp": "2026-09-22T01:50:11.359870Z",
-        "user_name": "Blaise Bernabe",
-        "activity_type": "WEB Analysis",
-        "target_details": "Casa Tequila Bar & Grill, 44110 Ashburn Shopping Plz Ste 100, Ashburn, VA 20147",
-        "volume": 1,
-        "cost": "0.5600"
-      },
-      {
-        "usage_log_id": "1508d5e1-ae6c-4ea2-a3dc-a22c302040d3",
-        "timestamp": "2026-09-22T01:50:11.289376Z",
-        "user_name": "Blaise Bernabe",
-        "activity_type": "GBP Analysis",
-        "target_details": "Casa Tequila Bar & Grill, 44110 Ashburn Shopping Plz Ste 100, Ashburn, VA 20147",
-        "volume": 1,
-        "cost": "0.0060"
-      },
-      {
-        "usage_log_id": "d804ea3a-e8cd-4c06-8c94-2161c5f29cf9",
-        "timestamp": "2026-09-22T01:49:52.425167Z",
-        "user_name": "Blaise Bernabe",
-        "activity_type": "SOC Analysis",
-        "target_details": "Thai Ashburn, 44031 Ashburn Shopping Plz #119, Ashburn, VA 20147",
-        "volume": 1,
-        "cost": "0.0500"
-      },
-      {
-        "usage_log_id": "07428e59-bd5a-4372-8a33-c6743dc4e602",
-        "timestamp": "2026-09-22T01:49:52.409085Z",
-        "user_name": "Blaise Bernabe",
-        "activity_type": "WEB Analysis",
-        "target_details": "Thai Ashburn, 44031 Ashburn Shopping Plz #119, Ashburn, VA 20147",
-        "volume": 1,
-        "cost": "0.5600"
-      }
-    ],
-    "total": 5812
-  }
+    "status": "success",
+    "data": {
+        "items": [
+            {
+                "usage_log_id": "17270a7e-3412-4d1c-8901-e2514f0616f5",
+                "timestamp": "2026-09-22T06:48:59.610740Z",
+                "user_name": "Iester mardy gaIIardo",
+                "activity_type": "WEB Analysis",
+                "target_details": "Traditas Pizza, 83 Maiden Ln, New York, NY 10038",
+                "volume": 1,
+                "cost": "0.5600"
+            },
+            {
+                "usage_log_id": "d799fc02-56b4-4ff0-97fc-b3c887401ad1",
+                "timestamp": "2026-09-22T06:36:29.128138Z",
+                "user_name": "Iester mardy gaIIardo",
+                "activity_type": "SOC Analysis",
+                "target_details": "Rosella's Pizzeria, 164 William St, New York, NY 10038",
+                "volume": 1,
+                "cost": "0.0500"
+            },
+            {
+                "usage_log_id": "3bc38c3b-ea4c-49ce-b13d-29ae76a9116f",
+                "timestamp": "2026-09-22T06:14:37.739604Z",
+                "user_name": "Illyria Dy",
+                "activity_type": "SOC Analysis",
+                "target_details": "Wendy's, 111 Fulton St, New York, NY 10038",
+                "volume": 1,
+                "cost": "0.0500"
+            },
+            {
+                "usage_log_id": "b6725b9a-6469-406d-95ee-c55e40aef4b7",
+                "timestamp": "2026-09-22T06:14:37.718063Z",
+                "user_name": "Illyria Dy",
+                "activity_type": "WEB Analysis",
+                "target_details": "Wendy's, 111 Fulton St, New York, NY 10038",
+                "volume": 1,
+                "cost": "0.5600"
+            },
+            {
+                "usage_log_id": "8d9943d4-6ad9-47e3-b675-a2ccc85ca7dc",
+                "timestamp": "2026-09-22T06:14:37.660327Z",
+                "user_name": "Illyria Dy",
+                "activity_type": "GBP Analysis",
+                "target_details": "Wendy's, 111 Fulton St, New York, NY 10038",
+                "volume": 1,
+                "cost": "0.0060"
+            },
+            {
+                "usage_log_id": "2e857f89-e383-4a2b-8922-c749f2ac0b01",
+                "timestamp": "2026-09-22T06:14:11.000602Z",
+                "user_name": "Illyria Dy",
+                "activity_type": "SOC Analysis",
+                "target_details": "Kitchen Social Meals-to-Go, 104 S Beverly St, Casper, WY 82609",
+                "volume": 1,
+                "cost": "0.0500"
+            },
+            {
+                "usage_log_id": "75a9eeb7-f9cf-4055-bc46-57d1a4d2cc0e",
+                "timestamp": "2026-09-22T06:14:10.984915Z",
+                "user_name": "Illyria Dy",
+                "activity_type": "WEB Analysis",
+                "target_details": "Kitchen Social Meals-to-Go, 104 S Beverly St, Casper, WY 82609",
+                "volume": 1,
+                "cost": "0.5600"
+            },
+            {
+                "usage_log_id": "5a1c8d00-b129-40d8-b41c-33ee78d2fef2",
+                "timestamp": "2026-09-22T06:14:10.939330Z",
+                "user_name": "Illyria Dy",
+                "activity_type": "GBP Analysis",
+                "target_details": "Kitchen Social Meals-to-Go, 104 S Beverly St, Casper, WY 82609",
+                "volume": 1,
+                "cost": "0.0060"
+            },
+            {
+                "usage_log_id": "17a8bb82-285d-4327-9564-e5f284e79be2",
+                "timestamp": "2026-09-22T06:13:44.973498Z",
+                "user_name": "Illyria Dy",
+                "activity_type": "SOC Analysis",
+                "target_details": "McDonald’s, 262 Canal St, New York, NY 10013",
+                "volume": 1,
+                "cost": "0.0500"
+            },
+            {
+                "usage_log_id": "f7ae2b82-8e12-4190-a732-9fa17903a1d0",
+                "timestamp": "2026-09-22T06:13:44.956408Z",
+                "user_name": "Illyria Dy",
+                "activity_type": "WEB Analysis",
+                "target_details": "McDonald’s, 262 Canal St, New York, NY 10013",
+                "volume": 1,
+                "cost": "0.5600"
+            },
+            {
+                "usage_log_id": "607b2734-89fd-46a3-bd59-4989a9dfc6e2",
+                "timestamp": "2026-09-22T06:13:44.897452Z",
+                "user_name": "Illyria Dy",
+                "activity_type": "GBP Analysis",
+                "target_details": "McDonald’s, 262 Canal St, New York, NY 10013",
+                "volume": 1,
+                "cost": "0.0060"
+            },
+            {
+                "usage_log_id": "36beb6ea-8720-4810-a199-b40fe4f7a0ec",
+                "timestamp": "2026-09-22T06:12:30.910209Z",
+                "user_name": "Illyria Dy",
+                "activity_type": "SOC Analysis",
+                "target_details": "McDonald's, 160 Broadway, New York, NY 10038",
+                "volume": 1,
+                "cost": "0.0500"
+            },
+            {
+                "usage_log_id": "ffd545d2-89db-41b0-9b57-542141141818",
+                "timestamp": "2026-09-22T06:12:30.890731Z",
+                "user_name": "Illyria Dy",
+                "activity_type": "WEB Analysis",
+                "target_details": "McDonald's, 160 Broadway, New York, NY 10038",
+                "volume": 1,
+                "cost": "0.5600"
+            },
+            {
+                "usage_log_id": "7cb9d40e-44ad-495a-8d3a-2785c2adf292",
+                "timestamp": "2026-09-22T06:12:30.819184Z",
+                "user_name": "Illyria Dy",
+                "activity_type": "GBP Analysis",
+                "target_details": "McDonald's, 160 Broadway, New York, NY 10038",
+                "volume": 1,
+                "cost": "0.0060"
+            },
+            {
+                "usage_log_id": "88428877-c79f-4a56-8abf-824e8986737c",
+                "timestamp": "2026-09-22T03:25:23.183979Z",
+                "user_name": "Lester Test",
+                "activity_type": "SOC Analysis",
+                "target_details": "LOUDOUN KABOB, 44031 Ashburn Shopping Plz Suite#123, Ashburn, VA 20147",
+                "volume": 1,
+                "cost": "0.0500"
+            }
+        ],
+        "total": 44
+    }
+}
+
+{
+    "status": "success",
+    "data": {
+        "items": [
+            {
+                "usage_log_id": "2783fe3a-7ecc-412d-9e92-b0b08429381f",
+                "timestamp": "2026-09-22T03:23:41.511273Z",
+                "user_name": "Lester Test",
+                "activity_type": "Search",
+                "target_details": "44031 Ashburn Shopping Plz #127, Ashburn, VA 20147, USA",
+                "volume": 1,
+                "cost": "0.0040"
+            },
+            {
+                "usage_log_id": "1854e088-2510-4a3c-ad8e-9691b90eea15",
+                "timestamp": "2026-09-22T03:17:46.262546Z",
+                "user_name": "Lester Red",
+                "activity_type": "WEB Analysis",
+                "target_details": "Javai Coffee, 400 16th St Mall, Denver, CO 80202",
+                "volume": 1,
+                "cost": "0.5600"
+            },
+            {
+                "usage_log_id": "9651b256-c72f-4e21-bdbf-06eea6a2cdf8",
+                "timestamp": "2026-09-22T03:08:04.415159Z",
+                "user_name": "Lester Red",
+                "activity_type": "Search",
+                "target_details": "1466 Bannock St, Denver, CO 80202, USA",
+                "volume": 10,
+                "cost": "0.0400"
+            },
+            {
+                "usage_log_id": "b7b96a95-4fd7-4dd9-8550-59cbfe56ab46",
+                "timestamp": "2026-09-22T02:51:37.611961Z",
+                "user_name": "Nathanael Jedd del Castillo",
+                "activity_type": "WEB Analysis",
+                "target_details": "Yellowstone Dino Lube & Repair, 375 US-89 S #A, Gardiner, MT 59030",
+                "volume": 1,
+                "cost": "0.5600"
+            },
+            {
+                "usage_log_id": "5c126373-7108-4912-80e4-93594211b752",
+                "timestamp": "2026-09-22T02:50:50.704509Z",
+                "user_name": "Iester mardy gaIIardo",
+                "activity_type": "WEB Analysis",
+                "target_details": "Little Italy Pizzeria and Deli, 50 Fulton St, New York, NY 10038",
+                "volume": 1,
+                "cost": "0.5600"
+            },
+            {
+                "usage_log_id": "663e93c6-58d2-48cc-89c3-739bca20afc3",
+                "timestamp": "2026-09-22T02:50:50.658699Z",
+                "user_name": "Iester mardy gaIIardo",
+                "activity_type": "GBP Analysis",
+                "target_details": "Little Italy Pizzeria and Deli, 50 Fulton St, New York, NY 10038",
+                "volume": 1,
+                "cost": "0.0060"
+            },
+            {
+                "usage_log_id": "a7eb68f5-9f1c-4631-a698-da16e8f1ffd4",
+                "timestamp": "2026-09-22T02:42:51.769667Z",
+                "user_name": "Nathanael Jedd del Castillo",
+                "activity_type": "WEB Analysis",
+                "target_details": "Tumbleweed Cafe, 503 Scott St W, Gardiner, MT 59030",
+                "volume": 1,
+                "cost": "0.5600"
+            },
+            {
+                "usage_log_id": "439709dd-1d0a-4712-a958-a5e227baa8c3",
+                "timestamp": "2026-09-22T02:33:55.758172Z",
+                "user_name": "Nathanael Jedd del Castillo",
+                "activity_type": "SOC Analysis",
+                "target_details": "Henry's Tavern, 500 16th St Mall Ste 184B, Denver, CO 80202",
+                "volume": 1,
+                "cost": "0.0500"
+            },
+            {
+                "usage_log_id": "f0b9eb3e-badf-4ea1-82cf-753526337959",
+                "timestamp": "2026-09-22T02:33:55.743248Z",
+                "user_name": "Nathanael Jedd del Castillo",
+                "activity_type": "WEB Analysis",
+                "target_details": "Henry's Tavern, 500 16th St Mall Ste 184B, Denver, CO 80202",
+                "volume": 1,
+                "cost": "0.5600"
+            },
+            {
+                "usage_log_id": "205e14a1-c475-4217-a6fd-3345873bbd06",
+                "timestamp": "2026-09-22T02:33:55.697834Z",
+                "user_name": "Nathanael Jedd del Castillo",
+                "activity_type": "GBP Analysis",
+                "target_details": "Henry's Tavern, 500 16th St Mall Ste 184B, Denver, CO 80202",
+                "volume": 1,
+                "cost": "0.0060"
+            },
+            {
+                "usage_log_id": "335aae48-f45b-4701-8bae-14881f4cb807",
+                "timestamp": "2026-09-22T01:52:00.193112Z",
+                "user_name": "Blaise Bernabe",
+                "activity_type": "SOC Analysis",
+                "target_details": "MyHome Thai Belmontchase, 19890 Belmont Chase Dr, Ashburn, VA 20147",
+                "volume": 1,
+                "cost": "0.0500"
+            },
+            {
+                "usage_log_id": "8389abf7-fc61-4ab1-a40a-06a074990b66",
+                "timestamp": "2026-09-22T01:52:00.179110Z",
+                "user_name": "Blaise Bernabe",
+                "activity_type": "WEB Analysis",
+                "target_details": "MyHome Thai Belmontchase, 19890 Belmont Chase Dr, Ashburn, VA 20147",
+                "volume": 1,
+                "cost": "0.5600"
+            },
+            {
+                "usage_log_id": "71c6e96e-182e-4769-b866-8138b2d243b4",
+                "timestamp": "2026-09-22T01:52:00.149373Z",
+                "user_name": "Blaise Bernabe",
+                "activity_type": "GBP Analysis",
+                "target_details": "MyHome Thai Belmontchase, 19890 Belmont Chase Dr, Ashburn, VA 20147",
+                "volume": 1,
+                "cost": "0.0060"
+            },
+            {
+                "usage_log_id": "b1aab8b8-bd20-4ee5-b33c-94e1c813cbf8",
+                "timestamp": "2026-09-22T01:50:11.391539Z",
+                "user_name": "Blaise Bernabe",
+                "activity_type": "SOC Analysis",
+                "target_details": "Casa Tequila Bar & Grill, 44110 Ashburn Shopping Plz Ste 100, Ashburn, VA 20147",
+                "volume": 1,
+                "cost": "0.0500"
+            },
+            {
+                "usage_log_id": "b68ae28b-16af-4b0c-a06c-0b5e337a0587",
+                "timestamp": "2026-09-22T01:50:11.359870Z",
+                "user_name": "Blaise Bernabe",
+                "activity_type": "WEB Analysis",
+                "target_details": "Casa Tequila Bar & Grill, 44110 Ashburn Shopping Plz Ste 100, Ashburn, VA 20147",
+                "volume": 1,
+                "cost": "0.5600"
+            }
+        ],
+        "total": 44
+    }
+}
+
+{
+    "status": "success",
+    "data": {
+        "items": [
+            {
+                "usage_log_id": "1508d5e1-ae6c-4ea2-a3dc-a22c302040d3",
+                "timestamp": "2026-09-22T01:50:11.289376Z",
+                "user_name": "Blaise Bernabe",
+                "activity_type": "GBP Analysis",
+                "target_details": "Casa Tequila Bar & Grill, 44110 Ashburn Shopping Plz Ste 100, Ashburn, VA 20147",
+                "volume": 1,
+                "cost": "0.0060"
+            },
+            {
+                "usage_log_id": "d804ea3a-e8cd-4c06-8c94-2161c5f29cf9",
+                "timestamp": "2026-09-22T01:49:52.425167Z",
+                "user_name": "Blaise Bernabe",
+                "activity_type": "SOC Analysis",
+                "target_details": "Thai Ashburn, 44031 Ashburn Shopping Plz #119, Ashburn, VA 20147",
+                "volume": 1,
+                "cost": "0.0500"
+            },
+            {
+                "usage_log_id": "07428e59-bd5a-4372-8a33-c6743dc4e602",
+                "timestamp": "2026-09-22T01:49:52.409085Z",
+                "user_name": "Blaise Bernabe",
+                "activity_type": "WEB Analysis",
+                "target_details": "Thai Ashburn, 44031 Ashburn Shopping Plz #119, Ashburn, VA 20147",
+                "volume": 1,
+                "cost": "0.5600"
+            },
+            {
+                "usage_log_id": "5c6bb6eb-a781-49c0-a759-407c172c4f92",
+                "timestamp": "2026-09-22T01:49:52.368651Z",
+                "user_name": "Blaise Bernabe",
+                "activity_type": "GBP Analysis",
+                "target_details": "Thai Ashburn, 44031 Ashburn Shopping Plz #119, Ashburn, VA 20147",
+                "volume": 1,
+                "cost": "0.0060"
+            },
+            {
+                "usage_log_id": "4cd9a3de-3de0-4c47-9b58-7694ac431d40",
+                "timestamp": "2026-09-22T01:47:27.003731Z",
+                "user_name": "Blaise Bernabe",
+                "activity_type": "SOC Analysis",
+                "target_details": "LOS TOLTECOS, 43150 Broadlands Center Plaza Suite 194, Ashburn, VA 20148",
+                "volume": 1,
+                "cost": "0.0500"
+            },
+            {
+                "usage_log_id": "aa697906-68a5-4105-8601-db2900366d93",
+                "timestamp": "2026-09-22T01:47:26.988625Z",
+                "user_name": "Blaise Bernabe",
+                "activity_type": "WEB Analysis",
+                "target_details": "LOS TOLTECOS, 43150 Broadlands Center Plaza Suite 194, Ashburn, VA 20148",
+                "volume": 1,
+                "cost": "0.5600"
+            },
+            {
+                "usage_log_id": "41c90e8e-c20f-4151-a928-8135378f168f",
+                "timestamp": "2026-09-22T01:47:26.943615Z",
+                "user_name": "Blaise Bernabe",
+                "activity_type": "GBP Analysis",
+                "target_details": "LOS TOLTECOS, 43150 Broadlands Center Plaza Suite 194, Ashburn, VA 20148",
+                "volume": 1,
+                "cost": "0.0060"
+            },
+            {
+                "usage_log_id": "15d184f7-3da8-4c3a-9ee8-b9fd653f8d98",
+                "timestamp": "2026-09-22T01:45:00.637105Z",
+                "user_name": "Blaise Bernabe",
+                "activity_type": "Search",
+                "target_details": "43985 Bruceton Mills Cir, Ashburn, VA 20147, USA",
+                "volume": 5,
+                "cost": "0.0200"
+            },
+            {
+                "usage_log_id": "2926795a-ca43-4ad2-a2c4-36970190c39d",
+                "timestamp": "2026-09-22T01:16:41.735436Z",
+                "user_name": "Blaise Bernabe",
+                "activity_type": "SOC Analysis",
+                "target_details": "Bebop Korean-Mexican Grill, 20630 Ashburn Rd Unit 172, Ashburn, VA 20147",
+                "volume": 1,
+                "cost": "0.0500"
+            },
+            {
+                "usage_log_id": "602d4727-ff69-4514-be53-c11d41a69d95",
+                "timestamp": "2026-09-22T01:16:41.719484Z",
+                "user_name": "Blaise Bernabe",
+                "activity_type": "WEB Analysis",
+                "target_details": "Bebop Korean-Mexican Grill, 20630 Ashburn Rd Unit 172, Ashburn, VA 20147",
+                "volume": 1,
+                "cost": "0.5600"
+            },
+            {
+                "usage_log_id": "0da4f6c2-98f9-42bc-ae7d-159c592788e0",
+                "timestamp": "2026-09-22T01:16:41.670428Z",
+                "user_name": "Blaise Bernabe",
+                "activity_type": "GBP Analysis",
+                "target_details": "Bebop Korean-Mexican Grill, 20630 Ashburn Rd Unit 172, Ashburn, VA 20147",
+                "volume": 1,
+                "cost": "0.0060"
+            },
+            {
+                "usage_log_id": "f6aacef8-6be6-4318-986a-78f623c33f7f",
+                "timestamp": "2026-09-22T01:03:29.570442Z",
+                "user_name": "Blaise Bernabe",
+                "activity_type": "SOC Analysis",
+                "target_details": "Potomac Taphouse, 44921 George Washington Blvd #155, Ashburn, VA 20147",
+                "volume": 1,
+                "cost": "0.0500"
+            },
+            {
+                "usage_log_id": "328bdf2c-a504-4ff1-a260-2cb0156fac6a",
+                "timestamp": "2026-09-22T01:03:29.551461Z",
+                "user_name": "Blaise Bernabe",
+                "activity_type": "WEB Analysis",
+                "target_details": "Potomac Taphouse, 44921 George Washington Blvd #155, Ashburn, VA 20147",
+                "volume": 1,
+                "cost": "0.5600"
+            },
+            {
+                "usage_log_id": "19865cad-93e7-422f-ab41-b8f3daa08569",
+                "timestamp": "2026-09-22T01:03:29.466786Z",
+                "user_name": "Blaise Bernabe",
+                "activity_type": "GBP Analysis",
+                "target_details": "Potomac Taphouse, 44921 George Washington Blvd #155, Ashburn, VA 20147",
+                "volume": 1,
+                "cost": "0.0060"
+            }
+        ],
+        "total": 44
+    }
 }
