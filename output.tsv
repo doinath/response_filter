@@ -1,45 +1,53 @@
-cost	user_name	activity_type	target_details	volume
-0.5600	Iester mardy gaIIardo	WEB Analysis	Traditas Pizza, 83 Maiden Ln, New York, NY 10038	1
-0.0500	Iester mardy gaIIardo	SOC Analysis	Rosella's Pizzeria, 164 William St, New York, NY 10038	1
-0.0500	Illyria Dy	SOC Analysis	Wendy's, 111 Fulton St, New York, NY 10038	1
-0.5600	Illyria Dy	WEB Analysis	Wendy's, 111 Fulton St, New York, NY 10038	1
-0.0060	Illyria Dy	GBP Analysis	Wendy's, 111 Fulton St, New York, NY 10038	1
-0.0500	Illyria Dy	SOC Analysis	Kitchen Social Meals-to-Go, 104 S Beverly St, Casper, WY 82609	1
-0.5600	Illyria Dy	WEB Analysis	Kitchen Social Meals-to-Go, 104 S Beverly St, Casper, WY 82609	1
-0.0060	Illyria Dy	GBP Analysis	Kitchen Social Meals-to-Go, 104 S Beverly St, Casper, WY 82609	1
-0.0500	Illyria Dy	SOC Analysis	McDonald’s, 262 Canal St, New York, NY 10013	1
-0.5600	Illyria Dy	WEB Analysis	McDonald’s, 262 Canal St, New York, NY 10013	1
-0.0060	Illyria Dy	GBP Analysis	McDonald’s, 262 Canal St, New York, NY 10013	1
-0.0500	Illyria Dy	SOC Analysis	McDonald's, 160 Broadway, New York, NY 10038	1
-0.5600	Illyria Dy	WEB Analysis	McDonald's, 160 Broadway, New York, NY 10038	1
-0.0060	Illyria Dy	GBP Analysis	McDonald's, 160 Broadway, New York, NY 10038	1
-0.0500	Lester Test	SOC Analysis	LOUDOUN KABOB, 44031 Ashburn Shopping Plz Suite#123, Ashburn, VA 20147	1
-0.0040	Lester Test	Search	44031 Ashburn Shopping Plz #127, Ashburn, VA 20147, USA	1
-0.5600	Lester Red	WEB Analysis	Javai Coffee, 400 16th St Mall, Denver, CO 80202	1
-0.0400	Lester Red	Search	1466 Bannock St, Denver, CO 80202, USA	10
-0.5600	Nathanael Jedd del Castillo	WEB Analysis	Yellowstone Dino Lube & Repair, 375 US-89 S #A, Gardiner, MT 59030	1
-0.5600	Iester mardy gaIIardo	WEB Analysis	Little Italy Pizzeria and Deli, 50 Fulton St, New York, NY 10038	1
-0.0060	Iester mardy gaIIardo	GBP Analysis	Little Italy Pizzeria and Deli, 50 Fulton St, New York, NY 10038	1
-0.5600	Nathanael Jedd del Castillo	WEB Analysis	Tumbleweed Cafe, 503 Scott St W, Gardiner, MT 59030	1
-0.0500	Nathanael Jedd del Castillo	SOC Analysis	Henry's Tavern, 500 16th St Mall Ste 184B, Denver, CO 80202	1
-0.5600	Nathanael Jedd del Castillo	WEB Analysis	Henry's Tavern, 500 16th St Mall Ste 184B, Denver, CO 80202	1
-0.0060	Nathanael Jedd del Castillo	GBP Analysis	Henry's Tavern, 500 16th St Mall Ste 184B, Denver, CO 80202	1
-0.0500	Blaise Bernabe	SOC Analysis	MyHome Thai Belmontchase, 19890 Belmont Chase Dr, Ashburn, VA 20147	1
-0.5600	Blaise Bernabe	WEB Analysis	MyHome Thai Belmontchase, 19890 Belmont Chase Dr, Ashburn, VA 20147	1
-0.0060	Blaise Bernabe	GBP Analysis	MyHome Thai Belmontchase, 19890 Belmont Chase Dr, Ashburn, VA 20147	1
-0.0500	Blaise Bernabe	SOC Analysis	Casa Tequila Bar & Grill, 44110 Ashburn Shopping Plz Ste 100, Ashburn, VA 20147	1
-0.5600	Blaise Bernabe	WEB Analysis	Casa Tequila Bar & Grill, 44110 Ashburn Shopping Plz Ste 100, Ashburn, VA 20147	1
-0.0060	Blaise Bernabe	GBP Analysis	Casa Tequila Bar & Grill, 44110 Ashburn Shopping Plz Ste 100, Ashburn, VA 20147	1
-0.0500	Blaise Bernabe	SOC Analysis	Thai Ashburn, 44031 Ashburn Shopping Plz #119, Ashburn, VA 20147	1
-0.5600	Blaise Bernabe	WEB Analysis	Thai Ashburn, 44031 Ashburn Shopping Plz #119, Ashburn, VA 20147	1
-0.0060	Blaise Bernabe	GBP Analysis	Thai Ashburn, 44031 Ashburn Shopping Plz #119, Ashburn, VA 20147	1
-0.0500	Blaise Bernabe	SOC Analysis	LOS TOLTECOS, 43150 Broadlands Center Plaza Suite 194, Ashburn, VA 20148	1
-0.5600	Blaise Bernabe	WEB Analysis	LOS TOLTECOS, 43150 Broadlands Center Plaza Suite 194, Ashburn, VA 20148	1
-0.0060	Blaise Bernabe	GBP Analysis	LOS TOLTECOS, 43150 Broadlands Center Plaza Suite 194, Ashburn, VA 20148	1
-0.0200	Blaise Bernabe	Search	43985 Bruceton Mills Cir, Ashburn, VA 20147, USA	5
-0.0500	Blaise Bernabe	SOC Analysis	Bebop Korean-Mexican Grill, 20630 Ashburn Rd Unit 172, Ashburn, VA 20147	1
-0.5600	Blaise Bernabe	WEB Analysis	Bebop Korean-Mexican Grill, 20630 Ashburn Rd Unit 172, Ashburn, VA 20147	1
-0.0060	Blaise Bernabe	GBP Analysis	Bebop Korean-Mexican Grill, 20630 Ashburn Rd Unit 172, Ashburn, VA 20147	1
-0.0500	Blaise Bernabe	SOC Analysis	Potomac Taphouse, 44921 George Washington Blvd #155, Ashburn, VA 20147	1
-0.5600	Blaise Bernabe	WEB Analysis	Potomac Taphouse, 44921 George Washington Blvd #155, Ashburn, VA 20147	1
-0.0060	Blaise Bernabe	GBP Analysis	Potomac Taphouse, 44921 George Washington Blvd #155, Ashburn, VA 20147	1
+userId	firstName	lastName	shiftCode	employmentTypeCode
+2c26955e-f3d8-4d13-80bf-b92f69a4a61c	Test	Test	DAY	INTERN
+6aa37926-e76b-4d4c-8615-996b566f0300	Nathanael Jedd	Del Castillo	DAY	INTERN
+c638e571-661b-4f11-b84c-eea35941c896	Jana Leigh	Rabe	DAY	INTERN
+f1a10770-7ec1-4b25-976b-ce2d59f7752b	Test	Intern account	DAY	INTERN
+798ff15c-e18b-4e5f-87e7-7878b9f09c77	Reev	Santillan	DAY	INTERN
+216e1c7e-b5fb-43bf-9453-f7382fd249f9	Jude Harley	Pandac	DAY	INTERN
+5752b219-a2df-45bc-9e0a-f23702ec237f	Leonard	Forrosuelo	DAY	INTERN
+71d0fcf4-d102-4bc8-a2a0-3681e8c9cd6a	Lester Mardy	Gallardo	DAY	INTERN
+37e0dcce-0448-438a-820b-9d9a514ae64b	Nat	Intern	DAY	INTERN
+3ac2cc30-7b9c-420b-a540-f322870b1a7e	Natt	Intern	DAY	INTERN
+a0630d45-a5fb-4f4b-b9a3-2caeb9c654e3	Nat	Intern	DAY	INTERN
+050faaab-3731-49b2-b80b-5dc082f2d914	Nat	Intern	DAY	INTERN
+e1c13cba-03bd-499b-a7e7-1e33e31335ea	Nat	Intern	DAY	INTERN
+02b925ea-4958-47d4-97db-86b4deeb0455	Natheeeeeeeeeeeeeeeegg	hggggggggg	DAY	INTERN
+4bd16866-eebe-4dc0-9559-401e1dd70493	Monique	Cantarona	DAY	INTERN
+259ef5b6-0fbc-4b8c-9174-9efba37b5ae9	Trixie	Dolera	DAY	INTERN
+6e3c409e-3755-48a5-9223-1c62e92ca354	Christian	Nemeño	DAY	INTERN
+074ce0c4-1def-4377-8cbe-5ff6be73a7b3	Jude Mikael	Valencia	DAY	INTERN
+6aaa048a-48f1-4aba-acb3-2d8f1f0b7d4d	Harley	Reyes	DAY	INTERN
+3f929642-bcc9-40e4-8bf5-40898a17bcc1	Mauriz Julien	Jugadora	DAY	INTERN
+c63e8685-5aa5-4644-84eb-b5e97b1e0151	John Philip	Patulilic	DAY	INTERN
+b03cca1e-d9ef-4bf5-a901-8828d11e64f2	Allyssa Lyn	Mabitad	DAY	INTERN
+879e4571-3b4e-48bc-a1e0-e9782a40630a	Jelea	Sarno	DAY	INTERN
+f8cc657b-f04b-4fae-b392-17a048c37750	Leighanne Czarina	Rosell	DAY	INTERN
+8c6a5ed8-2538-45fa-aaaf-a6175c5b2eea	Kim Darbie	Carreon	DAY	INTERN
+e618b900-fc78-4392-a50f-3919be9bdaac	Mary Grace	Cabanes	DAY	INTERN
+a304df6f-5ce6-4286-a4c0-930542a40be2	Ritzgale	Tuico	DAY	INTERN
+8bacee13-dc85-4385-b1fc-dab8fae7ba58	NICOLAS	DALAUTA	DAY	INTERN
+44ac5ac4-6828-439a-9f42-a4bebb7f3144	Nuj Archer Louis	Rafil	DAY	INTERN
+e8cfae87-5532-41df-8cdc-6810bee875b3	Aliyah Khaet	Regacho	DAY	INTERN
+5c1d35d8-72fc-444f-a4b4-ca51a669f866	Jeesandee Joseph	Caralde	DAY	INTERN
+20ee4ef4-3726-42a9-a577-a6154ce47029	Shayne Rose	Puerto	DAY	INTERN
+c14d1214-e8ce-4aac-ab40-026f447e336e	John Earl	Echavez	DAY	INTERN
+ad667e9b-4389-49ef-988f-e6f1d0d7d4cd	Gio Christian	Macatual	DAY	INTERN
+22f48f02-bfe8-40f2-b165-608e62aa181b	Mary Avriel Rainne	Borromeo	DAY	INTERN
+6c25193a-2679-4796-829a-3cad4498bd2d	Gwyneth Alethea	Gumapac	DAY	INTERN
+c9c657e5-9f8f-4a72-b2bc-79cfe1a09b79	Jella Mae	Gesim	DAY	INTERN
+5f158a5c-4c28-4ef4-873b-36618d47b0c9	Elgen Mar	Arinasa	DAY	INTERN
+866936af-2360-4ea3-b509-b513d573b6fa	Jassy	Faburada	DAY	INTERN
+0a1c2fe7-92a7-4be3-875d-b535553bf601	Ron Marc	Cañete	DAY	INTERN
+19b28192-5e9f-42cc-8485-294af3962973	Ladiona	Orias	DAY	INTERN
+c759b128-7adf-40db-a29f-84d92106c528	Illyria	Dy	DAY	INTERN
+f7913575-93f2-458c-a5dd-b4410aca1e5d	Jah Nissi	Cataraja	DAY	INTERN
+0e593b6e-92bd-4c3e-bf7e-ddee27c8406c	Vince	Pacilan	DAY	INTERN
+3000b7c7-6bf4-41ce-b546-e2d2fb8de042	Cherry Ann	Sigbat	DAY	INTERN
+2ea17f5b-85b5-43f1-8c3a-d3d917986fd5	Van Johanzel	Quijano	DAY	INTERN
+a62178a1-83bb-472a-9f3a-1e8c5b513a1c	Sofia Bianca	Sarno	DAY	INTERN
+35314f9b-69fa-4f11-bc1c-80d2b795fde6	Louise Anne	Subingsubing	DAY	INTERN
+b6d2bb21-a430-4f88-b1eb-2955c9705e05	test_03	testing	DAY	INTERN
+2cb9d56c-6fe3-490e-8f81-b392cf748ab0	First Test	Last Test	DAY	INTERN
+caecf242-7139-4ee4-a4e8-ad2723a230f2	FirstTest_05	LastTest_05	DAY	INTERN
+e48d9b83-8e59-4f33-afd8-16d8d18df9dc	Testing067	Test	DAY	INTERN

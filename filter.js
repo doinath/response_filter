@@ -22,11 +22,25 @@ function findArrays(obj) {
   return null;
 }
 
+function resolvePath(obj, pathStr) {
+  return pathStr.split(".").reduce((acc, key) => (acc != null ? acc[key] : undefined), obj);
+}
+
+function getOutputKey(key) {
+  const parts = key.split(".");
+  return parts[parts.length - 1];
+}
+
 function filterItem(item, include, exclude) {
   if (include.length > 0) {
     const result = {};
     for (const key of include) {
-      if (key in item) result[key] = item[key];
+      if (key.includes(".")) {
+        const val = resolvePath(item, key);
+        if (val !== undefined) result[getOutputKey(key)] = val;
+      } else {
+        if (key in item) result[key] = item[key];
+      }
     }
     return result;
   }
@@ -58,7 +72,7 @@ console.log(output);
 fs.writeFileSync(path.join(__dirname, "output.txt"), output);
 console.log("\nSaved to output.txt");
 
-const keys = include.length > 0 ? include : Object.keys(filtered[0] || {});
+const keys = include.length > 0 ? include.map(getOutputKey) : Object.keys(filtered[0] || {});
 const tsvHeader = keys.join("\t");
 const tsvRows = filtered.map((item) => keys.map((k) => item[k] ?? "").join("\t"));
 const tsv = [tsvHeader, ...tsvRows].join("\n");

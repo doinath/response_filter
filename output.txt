@@ -1,310 +1,366 @@
 [
   {
-    "cost": "0.5600",
-    "user_name": "Iester mardy gaIIardo",
-    "activity_type": "WEB Analysis",
-    "target_details": "Traditas Pizza, 83 Maiden Ln, New York, NY 10038",
-    "volume": 1
+    "userId": "2c26955e-f3d8-4d13-80bf-b92f69a4a61c",
+    "firstName": "Test",
+    "lastName": "Test",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.0500",
-    "user_name": "Iester mardy gaIIardo",
-    "activity_type": "SOC Analysis",
-    "target_details": "Rosella's Pizzeria, 164 William St, New York, NY 10038",
-    "volume": 1
+    "userId": "6aa37926-e76b-4d4c-8615-996b566f0300",
+    "firstName": "Nathanael Jedd",
+    "lastName": "Del Castillo",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.0500",
-    "user_name": "Illyria Dy",
-    "activity_type": "SOC Analysis",
-    "target_details": "Wendy's, 111 Fulton St, New York, NY 10038",
-    "volume": 1
+    "userId": "c638e571-661b-4f11-b84c-eea35941c896",
+    "firstName": "Jana Leigh",
+    "lastName": "Rabe",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.5600",
-    "user_name": "Illyria Dy",
-    "activity_type": "WEB Analysis",
-    "target_details": "Wendy's, 111 Fulton St, New York, NY 10038",
-    "volume": 1
+    "userId": "f1a10770-7ec1-4b25-976b-ce2d59f7752b",
+    "firstName": "Test",
+    "lastName": "Intern account",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.0060",
-    "user_name": "Illyria Dy",
-    "activity_type": "GBP Analysis",
-    "target_details": "Wendy's, 111 Fulton St, New York, NY 10038",
-    "volume": 1
+    "userId": "798ff15c-e18b-4e5f-87e7-7878b9f09c77",
+    "firstName": "Reev",
+    "lastName": "Santillan",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.0500",
-    "user_name": "Illyria Dy",
-    "activity_type": "SOC Analysis",
-    "target_details": "Kitchen Social Meals-to-Go, 104 S Beverly St, Casper, WY 82609",
-    "volume": 1
+    "userId": "216e1c7e-b5fb-43bf-9453-f7382fd249f9",
+    "firstName": "Jude Harley",
+    "lastName": "Pandac",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.5600",
-    "user_name": "Illyria Dy",
-    "activity_type": "WEB Analysis",
-    "target_details": "Kitchen Social Meals-to-Go, 104 S Beverly St, Casper, WY 82609",
-    "volume": 1
+    "userId": "5752b219-a2df-45bc-9e0a-f23702ec237f",
+    "firstName": "Leonard",
+    "lastName": "Forrosuelo",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.0060",
-    "user_name": "Illyria Dy",
-    "activity_type": "GBP Analysis",
-    "target_details": "Kitchen Social Meals-to-Go, 104 S Beverly St, Casper, WY 82609",
-    "volume": 1
+    "userId": "71d0fcf4-d102-4bc8-a2a0-3681e8c9cd6a",
+    "firstName": "Lester Mardy",
+    "lastName": "Gallardo",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.0500",
-    "user_name": "Illyria Dy",
-    "activity_type": "SOC Analysis",
-    "target_details": "McDonald’s, 262 Canal St, New York, NY 10013",
-    "volume": 1
+    "userId": "37e0dcce-0448-438a-820b-9d9a514ae64b",
+    "firstName": "Nat",
+    "lastName": "Intern",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.5600",
-    "user_name": "Illyria Dy",
-    "activity_type": "WEB Analysis",
-    "target_details": "McDonald’s, 262 Canal St, New York, NY 10013",
-    "volume": 1
+    "userId": "3ac2cc30-7b9c-420b-a540-f322870b1a7e",
+    "firstName": "Natt",
+    "lastName": "Intern",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.0060",
-    "user_name": "Illyria Dy",
-    "activity_type": "GBP Analysis",
-    "target_details": "McDonald’s, 262 Canal St, New York, NY 10013",
-    "volume": 1
+    "userId": "a0630d45-a5fb-4f4b-b9a3-2caeb9c654e3",
+    "firstName": "Nat",
+    "lastName": "Intern",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.0500",
-    "user_name": "Illyria Dy",
-    "activity_type": "SOC Analysis",
-    "target_details": "McDonald's, 160 Broadway, New York, NY 10038",
-    "volume": 1
+    "userId": "050faaab-3731-49b2-b80b-5dc082f2d914",
+    "firstName": "Nat",
+    "lastName": "Intern",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.5600",
-    "user_name": "Illyria Dy",
-    "activity_type": "WEB Analysis",
-    "target_details": "McDonald's, 160 Broadway, New York, NY 10038",
-    "volume": 1
+    "userId": "e1c13cba-03bd-499b-a7e7-1e33e31335ea",
+    "firstName": "Nat",
+    "lastName": "Intern",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.0060",
-    "user_name": "Illyria Dy",
-    "activity_type": "GBP Analysis",
-    "target_details": "McDonald's, 160 Broadway, New York, NY 10038",
-    "volume": 1
+    "userId": "02b925ea-4958-47d4-97db-86b4deeb0455",
+    "firstName": "Natheeeeeeeeeeeeeeeegg",
+    "lastName": "hggggggggg",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.0500",
-    "user_name": "Lester Test",
-    "activity_type": "SOC Analysis",
-    "target_details": "LOUDOUN KABOB, 44031 Ashburn Shopping Plz Suite#123, Ashburn, VA 20147",
-    "volume": 1
+    "userId": "4bd16866-eebe-4dc0-9559-401e1dd70493",
+    "firstName": "Monique",
+    "lastName": "Cantarona",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.0040",
-    "user_name": "Lester Test",
-    "activity_type": "Search",
-    "target_details": "44031 Ashburn Shopping Plz #127, Ashburn, VA 20147, USA",
-    "volume": 1
+    "userId": "259ef5b6-0fbc-4b8c-9174-9efba37b5ae9",
+    "firstName": "Trixie",
+    "lastName": "Dolera",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.5600",
-    "user_name": "Lester Red",
-    "activity_type": "WEB Analysis",
-    "target_details": "Javai Coffee, 400 16th St Mall, Denver, CO 80202",
-    "volume": 1
+    "userId": "6e3c409e-3755-48a5-9223-1c62e92ca354",
+    "firstName": "Christian",
+    "lastName": "Nemeño",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.0400",
-    "user_name": "Lester Red",
-    "activity_type": "Search",
-    "target_details": "1466 Bannock St, Denver, CO 80202, USA",
-    "volume": 10
+    "userId": "074ce0c4-1def-4377-8cbe-5ff6be73a7b3",
+    "firstName": "Jude Mikael",
+    "lastName": "Valencia",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.5600",
-    "user_name": "Nathanael Jedd del Castillo",
-    "activity_type": "WEB Analysis",
-    "target_details": "Yellowstone Dino Lube & Repair, 375 US-89 S #A, Gardiner, MT 59030",
-    "volume": 1
+    "userId": "6aaa048a-48f1-4aba-acb3-2d8f1f0b7d4d",
+    "firstName": "Harley",
+    "lastName": "Reyes",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.5600",
-    "user_name": "Iester mardy gaIIardo",
-    "activity_type": "WEB Analysis",
-    "target_details": "Little Italy Pizzeria and Deli, 50 Fulton St, New York, NY 10038",
-    "volume": 1
+    "userId": "3f929642-bcc9-40e4-8bf5-40898a17bcc1",
+    "firstName": "Mauriz Julien",
+    "lastName": "Jugadora",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.0060",
-    "user_name": "Iester mardy gaIIardo",
-    "activity_type": "GBP Analysis",
-    "target_details": "Little Italy Pizzeria and Deli, 50 Fulton St, New York, NY 10038",
-    "volume": 1
+    "userId": "c63e8685-5aa5-4644-84eb-b5e97b1e0151",
+    "firstName": "John Philip",
+    "lastName": "Patulilic",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.5600",
-    "user_name": "Nathanael Jedd del Castillo",
-    "activity_type": "WEB Analysis",
-    "target_details": "Tumbleweed Cafe, 503 Scott St W, Gardiner, MT 59030",
-    "volume": 1
+    "userId": "b03cca1e-d9ef-4bf5-a901-8828d11e64f2",
+    "firstName": "Allyssa Lyn",
+    "lastName": "Mabitad",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.0500",
-    "user_name": "Nathanael Jedd del Castillo",
-    "activity_type": "SOC Analysis",
-    "target_details": "Henry's Tavern, 500 16th St Mall Ste 184B, Denver, CO 80202",
-    "volume": 1
+    "userId": "879e4571-3b4e-48bc-a1e0-e9782a40630a",
+    "firstName": "Jelea",
+    "lastName": "Sarno",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.5600",
-    "user_name": "Nathanael Jedd del Castillo",
-    "activity_type": "WEB Analysis",
-    "target_details": "Henry's Tavern, 500 16th St Mall Ste 184B, Denver, CO 80202",
-    "volume": 1
+    "userId": "f8cc657b-f04b-4fae-b392-17a048c37750",
+    "firstName": "Leighanne Czarina",
+    "lastName": "Rosell",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.0060",
-    "user_name": "Nathanael Jedd del Castillo",
-    "activity_type": "GBP Analysis",
-    "target_details": "Henry's Tavern, 500 16th St Mall Ste 184B, Denver, CO 80202",
-    "volume": 1
+    "userId": "8c6a5ed8-2538-45fa-aaaf-a6175c5b2eea",
+    "firstName": "Kim Darbie",
+    "lastName": "Carreon",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.0500",
-    "user_name": "Blaise Bernabe",
-    "activity_type": "SOC Analysis",
-    "target_details": "MyHome Thai Belmontchase, 19890 Belmont Chase Dr, Ashburn, VA 20147",
-    "volume": 1
+    "userId": "e618b900-fc78-4392-a50f-3919be9bdaac",
+    "firstName": "Mary Grace",
+    "lastName": "Cabanes",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.5600",
-    "user_name": "Blaise Bernabe",
-    "activity_type": "WEB Analysis",
-    "target_details": "MyHome Thai Belmontchase, 19890 Belmont Chase Dr, Ashburn, VA 20147",
-    "volume": 1
+    "userId": "a304df6f-5ce6-4286-a4c0-930542a40be2",
+    "firstName": "Ritzgale",
+    "lastName": "Tuico",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.0060",
-    "user_name": "Blaise Bernabe",
-    "activity_type": "GBP Analysis",
-    "target_details": "MyHome Thai Belmontchase, 19890 Belmont Chase Dr, Ashburn, VA 20147",
-    "volume": 1
+    "userId": "8bacee13-dc85-4385-b1fc-dab8fae7ba58",
+    "firstName": "NICOLAS",
+    "lastName": "DALAUTA",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.0500",
-    "user_name": "Blaise Bernabe",
-    "activity_type": "SOC Analysis",
-    "target_details": "Casa Tequila Bar & Grill, 44110 Ashburn Shopping Plz Ste 100, Ashburn, VA 20147",
-    "volume": 1
+    "userId": "44ac5ac4-6828-439a-9f42-a4bebb7f3144",
+    "firstName": "Nuj Archer Louis",
+    "lastName": "Rafil",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.5600",
-    "user_name": "Blaise Bernabe",
-    "activity_type": "WEB Analysis",
-    "target_details": "Casa Tequila Bar & Grill, 44110 Ashburn Shopping Plz Ste 100, Ashburn, VA 20147",
-    "volume": 1
+    "userId": "e8cfae87-5532-41df-8cdc-6810bee875b3",
+    "firstName": "Aliyah Khaet",
+    "lastName": "Regacho",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.0060",
-    "user_name": "Blaise Bernabe",
-    "activity_type": "GBP Analysis",
-    "target_details": "Casa Tequila Bar & Grill, 44110 Ashburn Shopping Plz Ste 100, Ashburn, VA 20147",
-    "volume": 1
+    "userId": "5c1d35d8-72fc-444f-a4b4-ca51a669f866",
+    "firstName": "Jeesandee Joseph",
+    "lastName": "Caralde",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.0500",
-    "user_name": "Blaise Bernabe",
-    "activity_type": "SOC Analysis",
-    "target_details": "Thai Ashburn, 44031 Ashburn Shopping Plz #119, Ashburn, VA 20147",
-    "volume": 1
+    "userId": "20ee4ef4-3726-42a9-a577-a6154ce47029",
+    "firstName": "Shayne Rose",
+    "lastName": "Puerto",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.5600",
-    "user_name": "Blaise Bernabe",
-    "activity_type": "WEB Analysis",
-    "target_details": "Thai Ashburn, 44031 Ashburn Shopping Plz #119, Ashburn, VA 20147",
-    "volume": 1
+    "userId": "c14d1214-e8ce-4aac-ab40-026f447e336e",
+    "firstName": "John Earl",
+    "lastName": "Echavez",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.0060",
-    "user_name": "Blaise Bernabe",
-    "activity_type": "GBP Analysis",
-    "target_details": "Thai Ashburn, 44031 Ashburn Shopping Plz #119, Ashburn, VA 20147",
-    "volume": 1
+    "userId": "ad667e9b-4389-49ef-988f-e6f1d0d7d4cd",
+    "firstName": "Gio Christian",
+    "lastName": "Macatual",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.0500",
-    "user_name": "Blaise Bernabe",
-    "activity_type": "SOC Analysis",
-    "target_details": "LOS TOLTECOS, 43150 Broadlands Center Plaza Suite 194, Ashburn, VA 20148",
-    "volume": 1
+    "userId": "22f48f02-bfe8-40f2-b165-608e62aa181b",
+    "firstName": "Mary Avriel Rainne",
+    "lastName": "Borromeo",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.5600",
-    "user_name": "Blaise Bernabe",
-    "activity_type": "WEB Analysis",
-    "target_details": "LOS TOLTECOS, 43150 Broadlands Center Plaza Suite 194, Ashburn, VA 20148",
-    "volume": 1
+    "userId": "6c25193a-2679-4796-829a-3cad4498bd2d",
+    "firstName": "Gwyneth Alethea",
+    "lastName": "Gumapac",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.0060",
-    "user_name": "Blaise Bernabe",
-    "activity_type": "GBP Analysis",
-    "target_details": "LOS TOLTECOS, 43150 Broadlands Center Plaza Suite 194, Ashburn, VA 20148",
-    "volume": 1
+    "userId": "c9c657e5-9f8f-4a72-b2bc-79cfe1a09b79",
+    "firstName": "Jella Mae",
+    "lastName": "Gesim",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.0200",
-    "user_name": "Blaise Bernabe",
-    "activity_type": "Search",
-    "target_details": "43985 Bruceton Mills Cir, Ashburn, VA 20147, USA",
-    "volume": 5
+    "userId": "5f158a5c-4c28-4ef4-873b-36618d47b0c9",
+    "firstName": "Elgen Mar",
+    "lastName": "Arinasa",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.0500",
-    "user_name": "Blaise Bernabe",
-    "activity_type": "SOC Analysis",
-    "target_details": "Bebop Korean-Mexican Grill, 20630 Ashburn Rd Unit 172, Ashburn, VA 20147",
-    "volume": 1
+    "userId": "866936af-2360-4ea3-b509-b513d573b6fa",
+    "firstName": "Jassy",
+    "lastName": "Faburada",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.5600",
-    "user_name": "Blaise Bernabe",
-    "activity_type": "WEB Analysis",
-    "target_details": "Bebop Korean-Mexican Grill, 20630 Ashburn Rd Unit 172, Ashburn, VA 20147",
-    "volume": 1
+    "userId": "0a1c2fe7-92a7-4be3-875d-b535553bf601",
+    "firstName": "Ron Marc",
+    "lastName": "Cañete",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.0060",
-    "user_name": "Blaise Bernabe",
-    "activity_type": "GBP Analysis",
-    "target_details": "Bebop Korean-Mexican Grill, 20630 Ashburn Rd Unit 172, Ashburn, VA 20147",
-    "volume": 1
+    "userId": "19b28192-5e9f-42cc-8485-294af3962973",
+    "firstName": "Ladiona",
+    "lastName": "Orias",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.0500",
-    "user_name": "Blaise Bernabe",
-    "activity_type": "SOC Analysis",
-    "target_details": "Potomac Taphouse, 44921 George Washington Blvd #155, Ashburn, VA 20147",
-    "volume": 1
+    "userId": "c759b128-7adf-40db-a29f-84d92106c528",
+    "firstName": "Illyria",
+    "lastName": "Dy",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.5600",
-    "user_name": "Blaise Bernabe",
-    "activity_type": "WEB Analysis",
-    "target_details": "Potomac Taphouse, 44921 George Washington Blvd #155, Ashburn, VA 20147",
-    "volume": 1
+    "userId": "f7913575-93f2-458c-a5dd-b4410aca1e5d",
+    "firstName": "Jah Nissi",
+    "lastName": "Cataraja",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   },
   {
-    "cost": "0.0060",
-    "user_name": "Blaise Bernabe",
-    "activity_type": "GBP Analysis",
-    "target_details": "Potomac Taphouse, 44921 George Washington Blvd #155, Ashburn, VA 20147",
-    "volume": 1
+    "userId": "0e593b6e-92bd-4c3e-bf7e-ddee27c8406c",
+    "firstName": "Vince",
+    "lastName": "Pacilan",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
+  },
+  {
+    "userId": "3000b7c7-6bf4-41ce-b546-e2d2fb8de042",
+    "firstName": "Cherry Ann",
+    "lastName": "Sigbat",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
+  },
+  {
+    "userId": "2ea17f5b-85b5-43f1-8c3a-d3d917986fd5",
+    "firstName": "Van Johanzel",
+    "lastName": "Quijano",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
+  },
+  {
+    "userId": "a62178a1-83bb-472a-9f3a-1e8c5b513a1c",
+    "firstName": "Sofia Bianca",
+    "lastName": "Sarno",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
+  },
+  {
+    "userId": "35314f9b-69fa-4f11-bc1c-80d2b795fde6",
+    "firstName": "Louise Anne",
+    "lastName": "Subingsubing",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
+  },
+  {
+    "userId": "b6d2bb21-a430-4f88-b1eb-2955c9705e05",
+    "firstName": "test_03",
+    "lastName": "testing",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
+  },
+  {
+    "userId": "2cb9d56c-6fe3-490e-8f81-b392cf748ab0",
+    "firstName": "First Test",
+    "lastName": "Last Test",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
+  },
+  {
+    "userId": "caecf242-7139-4ee4-a4e8-ad2723a230f2",
+    "firstName": "FirstTest_05",
+    "lastName": "LastTest_05",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
+  },
+  {
+    "userId": "e48d9b83-8e59-4f33-afd8-16d8d18df9dc",
+    "firstName": "Testing067",
+    "lastName": "Test",
+    "shiftCode": "DAY",
+    "employmentTypeCode": "INTERN"
   }
 ]

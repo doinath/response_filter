@@ -1,5 +1,4 @@
 {
-  "include": ["cost", 
-  "user_name", "activity_type", "target_details", "volume"],
+  "include": ["userId", "firstName", "lastName", "shift.shiftCode", "employmentTypeCode" ],
   "exclude": []
 }
